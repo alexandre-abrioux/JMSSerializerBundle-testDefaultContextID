@@ -4,7 +4,7 @@ This repository was created with those commands:
 
 ```bash
 composer create-project symfony/skeleton my_project_name
-composer require jms/serializer-bundle
+composer require jms/serializer-bundle:3.5
 ```
 
 ; then two services were added:
